@@ -1,0 +1,7 @@
+ ,Mission-Impossible;English;10.30
+,Thor;Hindi;10:00,Extra-Terrestrial;Hindi;23:00,Terminator;Tamil;12:00,
+Baahubali2;Hindi;20.15
+,Dunkirk;English;22.00,
+
+Dangal;English;00.00,Wonder-Woman;English;2.30
+,Spider-Man;Malyalam;23:00,BadhaiHo;Tamil;22:00,testing2;Tamil;10:00
